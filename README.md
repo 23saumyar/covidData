@@ -1,5 +1,6 @@
 # SpaceApps: Bits N Bytes
-Predicting future pandemic cases and pollution based on inputted key factors
+Predicting future pandemic cases and pollution based on inputted key factors.
+If you would like to run the Julia file and you do not have Julia installed, please use this: https://mybinder.org/v2/gh/23saumyar/covidData/master 
 
 ## Files + their purpose
 
