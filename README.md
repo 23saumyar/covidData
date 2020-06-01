@@ -1,6 +1,6 @@
 # SpaceApps: Bits N Bytes
 Predicting future pandemic cases and pollution based on inputted key factors.
-If you would like to run the Julia file and you do not have Julia installed, please use this: https://mybinder.org/v2/gh/23saumyar/covidData/master 
+If you would like to run the Julia file and you do not have Julia installed, please use this: https://mybinder.org/v2/gh/23saumyar/covidData/master . Please note you may have to install additional features in the .toml files in order for the jupyter notebook to run as desired.
 
 ## Files + their purpose
 
